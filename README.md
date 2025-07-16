@@ -4,6 +4,10 @@
 [![License](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 [![GitHub stars](https://img.shields.io/github/stars/yourusername/fake-news-detection.svg?style=social)](https://github.com/yourusername/fake-news-detection/stargazers)
 
+<img src="https://drive.google.com/uc?export=view&id=1i3dv0goc1yu-g8Cw4CfqnrG2dlIWGi1t" alt="Working App Screenshot" width="600">
+
+## 🔗 [See Live](https://news-detection-using-ml.onrender.com)
+
 ## 🌟 About the Project
 
 This is an advanced Fake News Detection System that utilizes machine learning techniques to identify and classify fake news articles. The system is designed to help combat the spread of misinformation by providing accurate predictions about the authenticity of news articles.
