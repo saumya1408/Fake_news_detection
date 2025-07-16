@@ -6,7 +6,7 @@
 
 <img src="https://drive.google.com/uc?export=view&id=1i3dv0goc1yu-g8Cw4CfqnrG2dlIWGi1t" alt="Working App Screenshot" width="600">
 
-## 🔗 [See Live](https://news-detection-using-ml.onrender.com)
+## 🔗 [See Live]([https://news-detection-using-ml.onrender.com](https://fake-news-detection-18gw.onrender.com))
 
 ## 🌟 About the Project
 
